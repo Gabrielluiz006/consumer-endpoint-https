@@ -1,0 +1,7 @@
+https://www.potterapi.com/v1/sortingHat
+https://www.potterapi.com/v1/characters?key=$2a$10$MSbPu//CI4LbapXUpH0rnOGGGqP9MAK1ZFOXh52wGaTDds2ekiJcG
+https://www.potterapi.com/v1/characters/5a0fa4daae5bc100213c232e
+https://www.potterapi.com/v1/characters/5a0fa4daae5bc100213c232e?key=$2a$10$MSbPu//CI4LbapXUpH0rnOGGGqP9MAK1ZFOXh52wGaTDds2ekiJcG
+https://www.potterapi.com/v1/houses?key=$2a$10$MSbPu//CI4LbapXUpH0rnOGGGqP9MAK1ZFOXh52wGaTDds2ekiJcG
+https://www.potterapi.com/v1/houses/5a05e2b252f721a3cf2ea33f?key=$2a$10$MSbPu//CI4LbapXUpH0rnOGGGqP9MAK1ZFOXh52wGaTDds2ekiJcG
+https://www.potterapi.com/v1/spells?key=$2a$10$MSbPu//CI4LbapXUpH0rnOGGGqP9MAK1ZFOXh52wGaTDds2ekiJcG
